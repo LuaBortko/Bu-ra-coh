@@ -1,0 +1,37 @@
+
+Buraco pvp
+
+Jogo de estratégia 
+Baseado no buraco, mas  em um pvp, onde cada combinação de cartas jogadas na mesa é convertida em um ataque no adversário
+Poderia ter “personagens selecionáveis”, cada um com uma habilidade diferente (para defesa, ataque), tipo um com mais vida, outro com o dobro de ataque mais com pouca vida, etc
+Talvez fazer um sistema de a cada rodada perder vida de acordo com o número de cartas na mão, trazendo mais estratégia pro jogo
+adição de habilidades relacionadas a isso
+Talvez algumas cartas podem dar efeitos, tipo cura, veneno
+
+
+Baralho: 3 baralhos: 6 de cada carta. 208 cards no total 
+
+Mecânicas:
+
+    Cada rodada o jogador perde vida de acordo com as cartas na mão
+    Valete(paus): Escudo (defende o todo dano) Rei(espadas): Dá o dobro de dano Dama(copas):(cura 25% da vida) As(ouros): rouba uma carta do adversário. 
+    Cada jogador começa com 11 cartas e tem um morto de 11 cartas que ele só pode ter acesso quando esgotar suas cartas da mão.
+    Coringa sendo coringa, apenas para encaixe
+    Personagens selecionáveis com habilidades únicas/ para maior diversidade nos estilos de jogo
+    Canastra da um dano bônus e limpa dá mais dano ainda
+    Regra pra ser permitido não ter cartas na mão é necessário uma canastra
+    Quem termina com as cartas da mão, dá um dano extra no adversário
+    O jogo termina quando um dos jogadores termina a mão e o morto ou quando um dos jogadores tem seu hp em zero.
+    Ganha quem tiver mais vida no final
+
+
+Habilidades de personagens: 
+
+	A: Dano maior, menos vida
+	B: Equilíbrio
+	C: Muita vida, pouco dano
+    D: menos vida, mais perde menos vida por round
+    E: coração das cartas: compra  uma carta de sua preferência (1 vez a cada rodadas)
+    F: todos os paus (começa com um valete de paus do baralho)
+    G: Dá MUITO dano com canastra mas tem que ser limpa.
+    H: Sobrevivente: sempre fica com um de vida se levar um ataque mortal
